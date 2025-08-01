@@ -8,17 +8,11 @@ Além das funcionalidades básicas, o sistema será preparado para escalabilidad
 
 ## Tecnologias Utilizadas
 
-- **Java**: Linguagem principal do backend, utilizando Spring Boot para estruturação da API REST.
+- **Java**: Linguagem principal do backend, utilizando NetBeans para estruturação.
 - **MySQL**: Banco de dados relacional para armazenar informações de usuários, itens, lances e eventos.
 - **Java**: Desenvolvimento da interface desktop responsiva para acesso ao sistema.
 - **Git e GitHub**: Controle de versão e colaboração entre os desenvolvedores com rastreamento completo das alterações no código.
 
-## Segurança e Qualidade
-
-Este repositório é mantido com controle de versionamento rigoroso para garantir:
-- Auditoria completa das alterações no código
-- Conformidade com as políticas de segurança da empresa
-- Melhoria contínua através de revisões e testes
 
 ---
 
