@@ -8,12 +8,19 @@ Além das funcionalidades básicas, o sistema será preparado para escalabilidad
 
 ## Tecnologias Utilizadas
 
+<<<<<<< HEAD
 - **Java**: Linguagem principal do backend, utilizando NetBeans para estruturação.
+=======
+- **Java**: Linguagem principal do backend, utilizando NetBeans para estruturação. 
+>>>>>>> a288aa532a2bcec58dc48fe4c84679fc25c490f3
 - **MySQL**: Banco de dados relacional para armazenar informações de usuários, itens, lances e eventos.
 - **Java**: Desenvolvimento da interface desktop responsiva para acesso ao sistema.
 - **Git e GitHub**: Controle de versão e colaboração entre os desenvolvedores com rastreamento completo das alterações no código.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a288aa532a2bcec58dc48fe4c84679fc25c490f3
 ---
 
 **Status do Projeto:** Em desenvolvimento inicial  
