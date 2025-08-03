@@ -182,7 +182,7 @@ public class listagemVIEW extends javax.swing.JFrame {
 
     // 1. Valida se o campo está vazio
     if (idStr.isEmpty()) {
-        JOptionPane.showMessageDialog(this, "Por favor, informe um ID válido.");
+        JOptionPane.showMessageDialog(this, "Informe um ID válido.");
         return;
     }
 
@@ -191,7 +191,7 @@ public class listagemVIEW extends javax.swing.JFrame {
     try {
         id = Integer.parseInt(idStr);
     } catch (NumberFormatException e) {
-        JOptionPane.showMessageDialog(this, "ID deve ser um número válido.");
+        JOptionPane.showMessageDialog(this, "ID inválido.");
         return;
     }
 
