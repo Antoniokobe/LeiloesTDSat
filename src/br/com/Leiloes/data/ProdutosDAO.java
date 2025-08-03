@@ -84,7 +84,7 @@ public class ProdutosDAO {
         int linhasAfetadas = prep.executeUpdate();
 
         if (linhasAfetadas > 0) {
-            JOptionPane.showMessageDialog(null, "Produto vendido com sucesso!");
+            JOptionPane.showMessageDialog(null, "Venda concluída");
         } else {
             JOptionPane.showMessageDialog(null, "Produto com ID " + id + " não encontrado.");
         }
